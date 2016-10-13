@@ -14,5 +14,9 @@ RSpec.describe String do
     it 'encodes a sentence' do
       expect(subject.encoded).to eq 'ftq cguow ndaiz raj vgybe ahqd ftq xmlk pas'
     end
+
+    # TODO: implement a test for memoization
+    xit 'memoizes results' do
+    end
   end
 end
