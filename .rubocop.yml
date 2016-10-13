@@ -1,0 +1,10 @@
+AllCops:
+  DisplayCopNames: true
+  DisplayStyleGuide: false
+  StyleGuideCopsOnly: false
+
+Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
